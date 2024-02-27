@@ -9,4 +9,5 @@ Name : Siiriin Nisrinaa
 Peogram : IBM Advance AI
 
 *Tech Stack*
+- Large Language Model (LLM)
 - Pyhton 
