@@ -6,7 +6,7 @@ Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of T
 
 *Mentee Info*
 Name : Siiriin Nisrinaa
-Peogram : IBM Advance AI
+Program : IBM Advance AI
 
 *Tech Stack*
 - Large Language Model (LLM)
